@@ -1,3 +1,6 @@
+## [2.1.1] - 03 OCT 2022
+* Updated sensors_plus dependency to 1.4.0
+
 ## [2.1.0]
 
 * Added minimum shake count for triggering shake callback
